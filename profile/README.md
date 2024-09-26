@@ -11,7 +11,7 @@ Entry는 대덕소프트웨어마이스터고등학교의 입학 전형을 효�
 + BackEnd: Kotlin, Spring Boot, Spring Data JPA, Apach Kafka, MSA, resilience4j
 + FrontEnd: React, TypeScript, React-query, axios, emotion
 + Database: MySQL, Redis
-+ Infra: AWS (EC2, S3, RDS), Docker
++ Infra: [XQUARE](https://github.com/team-xquare)
 + CI/CD: GitHub Actions
 ### 🔗 바로가기
 [EntryDSM 웹사이트](https://www.entrydsm.hs.kr/)
