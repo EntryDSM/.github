@@ -9,7 +9,7 @@ Entry는 대덕소프트웨어마이스터고등학교의 입학 전형을 효�
 + 통계 분석: 다양한 입학 데이터를 바탕으로 지원 현황과 결과에 대한 통계 분석 기능을 제공합니다.
 ### ⚙️ 기술 스택
 + BackEnd: Kotlin, Spring Boot, Spring Data JPA, Apach Kafka, MSA, resilience4j
-+ FrontEnd: React, TypeScript
++ FrontEnd: React, TypeScript, React-query, axios, emotion
 + Database: MySQL, Redis
 + Infra: AWS (EC2, S3, RDS), Docker
 + CI/CD: GitHub Actions
