@@ -14,4 +14,4 @@ Entry는 대덕소프트웨어마이스터고등학교의 입학 전형을 효�
 + Infra: AWS (EC2, S3, RDS), Docker
 + CI/CD: GitHub Actions
 ### 🔗 바로가기
-EntryDSM 웹사이트
+[EntryDSM 웹사이트](https://www.entrydsm.hs.kr/)
