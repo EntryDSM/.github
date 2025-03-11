@@ -8,7 +8,7 @@ Entry는 대덕소프트웨어마이스터고등학교의 입학 전형을 효�
 + 전형 관리: 관리자는 실시간 지원자 정보 조회 및 서류, 면접 전형을 효율적으로 운영할 수 있습니다.
 + 통계 분석: 다양한 입학 데이터를 바탕으로 지원 현황과 결과에 대한 통계 분석 기능을 제공합니다.
 ### ⚙️ 기술 스택
-+ BackEnd: Kotlin, Spring Boot, Spring Data JPA, Apach Kafka, MSA, resilience4j
++ BackEnd: Kotlin, Spring Boot, Spring Data JPA, Apach Kafka, MicroService Architecture, resilience4j
 + FrontEnd: React, TypeScript, React-query, axios, emotion
 + Database: MySQL, Redis
 + DevOps: [XQUARE](https://github.com/team-xquare)
